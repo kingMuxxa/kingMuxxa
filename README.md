@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kingMuxxa
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Object-oriented Programming Languages.
+- 🌱 I’m currently learning Object-oriented Programming.
 - 💞️ I’m looking to collaborate on python and web development.
 - 📫 How to reach me inbox me.
 
